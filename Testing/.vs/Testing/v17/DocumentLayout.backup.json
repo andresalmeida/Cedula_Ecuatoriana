@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\validations\\cedulaecuatorianaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\validations\\cedulaecuatorianaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\validations\\cedulaecuatorianagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\validations\\cedulaecuatorianagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\data\\clientepostgresqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\data\\clientepostgresqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\data\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\data\\clientedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\models\\clientepostgresql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\models\\clientepostgresql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\controllers\\clientepostgresqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\controllers\\clientepostgresqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\data\\clientesqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\data\\clientesqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\controllers\\clientesqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\controllers\\clientesqlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E5134F-A862-4CE4-AF3F-64615E601D4C}|MSTestUnit\\MSTestUnit.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\mstestunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E5134F-A862-4CE4-AF3F-64615E601D4C}|MSTestUnit\\MSTestUnit.csproj|solutionrelative:mstestunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\models\\clientesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\models\\clientesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\views\\clientepostgresql\\modificarsaldo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\views\\clientepostgresql\\modificarsaldo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\views\\clientepostgresql\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\views\\clientepostgresql\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\views\\clientepostgresql\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\views\\clientepostgresql\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\views\\clientepostgresql\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\views\\clientepostgresql\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\views\\clientepostgresql\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\views\\clientepostgresql\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\models\\provinciacedula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\models\\provinciacedula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\views\\clientesql\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\views\\clientesql\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\views\\clientesql\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\views\\clientesql\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\data\\testingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\data\\testingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|c:\\users\\asus\\onedrive\\documentos\\universidad\\pruebas de software\\repo\\testing\\testing\\views\\clientesql\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AC43967-E99B-49AB-B1C4-4B41111FD60B}|Testing\\Testing.csproj|solutionrelative:testing\\views\\clientesql\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\e6854b9278fb08d482a4dca9a0e9fc1ef787ac1c72073649c4f5a6081af7a67b\\ClienteSQLDataAccessLayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientePostgreSQLDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Data\\ClientePostgreSQLDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "Testing\\Data\\ClientePostgreSQLDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Data\\ClientePostgreSQLDataAccessLayer.cs",
+              "RelativeToolTip": "Testing\\Data\\ClientePostgreSQLDataAccessLayer.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAIwIYBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:45:39.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CedulaEcuatorianaGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Validations\\CedulaEcuatorianaGenerator.cs",
+              "RelativeDocumentMoniker": "Testing\\Validations\\CedulaEcuatorianaGenerator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Validations\\CedulaEcuatorianaGenerator.cs",
+              "RelativeToolTip": "Testing\\Validations\\CedulaEcuatorianaGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:09:08.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Data\\ClienteDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "Testing\\Data\\ClienteDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Data\\ClienteDataAccessLayer.cs",
+              "RelativeToolTip": "Testing\\Data\\ClienteDataAccessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:32:06.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CedulaEcuatorianaAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Validations\\CedulaEcuatorianaAttribute.cs",
+              "RelativeDocumentMoniker": "Testing\\Validations\\CedulaEcuatorianaAttribute.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Validations\\CedulaEcuatorianaAttribute.cs",
+              "RelativeToolTip": "Testing\\Validations\\CedulaEcuatorianaAttribute.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:37:02.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Testing\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Testing\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:55:25.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientePostgreSQL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Models\\ClientePostgreSQL.cs",
+              "RelativeDocumentMoniker": "Testing\\Models\\ClientePostgreSQL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Models\\ClientePostgreSQL.cs",
+              "RelativeToolTip": "Testing\\Models\\ClientePostgreSQL.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:02:24.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientePostgreSQLController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Controllers\\ClientePostgreSQLController.cs",
+              "RelativeDocumentMoniker": "Testing\\Controllers\\ClientePostgreSQLController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Controllers\\ClientePostgreSQLController.cs",
+              "RelativeToolTip": "Testing\\Controllers\\ClientePostgreSQLController.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAAPgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:19:54.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteSQLDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Data\\ClienteSQLDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "Testing\\Data\\ClienteSQLDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Data\\ClienteSQLDataAccessLayer.cs",
+              "RelativeToolTip": "Testing\\Data\\ClienteSQLDataAccessLayer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwDMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:09:47.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteSqlController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Controllers\\ClienteSqlController.cs",
+              "RelativeDocumentMoniker": "Testing\\Controllers\\ClienteSqlController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Controllers\\ClienteSqlController.cs",
+              "RelativeToolTip": "Testing\\Controllers\\ClienteSqlController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:16:00.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\MSTestUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MSTestUnit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\MSTestUnit\\UnitTest1.cs",
+              "RelativeToolTip": "MSTestUnit\\UnitTest1.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAQwL4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:38:59.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Testing\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T12:44:27.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteSQL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Models\\ClienteSQL.cs",
+              "RelativeDocumentMoniker": "Testing\\Models\\ClienteSQL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Models\\ClienteSQL.cs",
+              "RelativeToolTip": "Testing\\Models\\ClienteSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:10:50.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClientePostgreSQL\\Create.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\ClientePostgreSQL\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClientePostgreSQL\\Create.cshtml",
+              "RelativeToolTip": "Testing\\Views\\ClientePostgreSQL\\Create.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAEBVwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T03:34:24.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClientePostgreSQL\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\ClientePostgreSQL\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClientePostgreSQL\\Delete.cshtml",
+              "RelativeToolTip": "Testing\\Views\\ClientePostgreSQL\\Delete.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T03:40:43.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModificarSaldo.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClientePostgreSQL\\ModificarSaldo.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\ClientePostgreSQL\\ModificarSaldo.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClientePostgreSQL\\ModificarSaldo.cshtml",
+              "RelativeToolTip": "Testing\\Views\\ClientePostgreSQL\\ModificarSaldo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T12:15:02.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClientePostgreSQL\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\ClientePostgreSQL\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClientePostgreSQL\\Edit.cshtml",
+              "RelativeToolTip": "Testing\\Views\\ClientePostgreSQL\\Edit.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T03:37:48.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClientePostgreSQL\\Index.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\ClientePostgreSQL\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClientePostgreSQL\\Index.cshtml",
+              "RelativeToolTip": "Testing\\Views\\ClientePostgreSQL\\Index.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAEBVwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T03:32:47.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProvinciaCedula.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Models\\ProvinciaCedula.cs",
+              "RelativeDocumentMoniker": "Testing\\Models\\ProvinciaCedula.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Models\\ProvinciaCedula.cs",
+              "RelativeToolTip": "Testing\\Models\\ProvinciaCedula.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:05:48.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClienteSql\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\ClienteSql\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClienteSql\\Delete.cshtml",
+              "RelativeToolTip": "Testing\\Views\\ClienteSql\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T04:16:49.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClienteSql\\Create.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\ClienteSql\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClienteSql\\Create.cshtml",
+              "RelativeToolTip": "Testing\\Views\\ClienteSql\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T03:40:54.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TestingContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Data\\TestingContext.cs",
+              "RelativeDocumentMoniker": "Testing\\Data\\TestingContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Data\\TestingContext.cs",
+              "RelativeToolTip": "Testing\\Data\\TestingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:41:05.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClienteSql\\Update.cshtml",
+              "RelativeDocumentMoniker": "Testing\\Views\\ClienteSql\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Universidad\\Pruebas de Software\\Repo\\Testing\\Testing\\Views\\ClienteSql\\Update.cshtml",
+              "RelativeToolTip": "Testing\\Views\\ClienteSql\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T04:17:25.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClienteSQLDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\e6854b9278fb08d482a4dca9a0e9fc1ef787ac1c72073649c4f5a6081af7a67b\\ClienteSQLDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e6854b9278fb08d482a4dca9a0e9fc1ef787ac1c72073649c4f5a6081af7a67b\\ClienteSQLDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\.vsdbgsrc\\e6854b9278fb08d482a4dca9a0e9fc1ef787ac1c72073649c4f5a6081af7a67b\\ClienteSQLDataAccessLayer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e6854b9278fb08d482a4dca9a0e9fc1ef787ac1c72073649c4f5a6081af7a67b\\ClienteSQLDataAccessLayer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:54:48.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

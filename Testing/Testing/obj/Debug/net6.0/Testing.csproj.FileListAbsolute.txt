@@ -1,0 +1,8 @@
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Pruebas de Software\Repo\Testing\Testing\obj\Debug\net6.0\Testing.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Pruebas de Software\Repo\Testing\Testing\obj\Debug\net6.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Pruebas de Software\Repo\Testing\Testing\obj\Debug\net6.0\Testing.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Pruebas de Software\Repo\Testing\Testing\obj\Debug\net6.0\Testing.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Pruebas de Software\Repo\Testing\Testing\obj\Debug\net6.0\Testing.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Pruebas de Software\Repo\Testing\Testing\obj\Debug\net6.0\Testing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Pruebas de Software\Repo\Testing\Testing\obj\Debug\net6.0\Testing.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Documentos\Universidad\Pruebas de Software\Repo\Testing\Testing\obj\Debug\net6.0\Testing.RazorAssemblyInfo.cs
